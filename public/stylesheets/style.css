@@ -1,0 +1,20 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: cornflowerblue;
+}
+
+a {
+  color: white;
+  margin: 20px;
+}
+
+nav {
+  background-color: blue;
+  text-align: left;
+  display: flex;
+}
+
+form {
+  line-height: 35px;
+}
